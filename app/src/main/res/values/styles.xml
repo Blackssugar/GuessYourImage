@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="AppTheme.Base">
+    </style>
+
+    <style name="AppTheme.Base" parent="Theme.AppCompat">
+
+        <item name="colorPrimary">@color/colorWhite</item>
+        <item name="colorPrimaryDark">#000000</item>
+        <item name="android:windowBackground">@color/colorBackground2</item>
+    </style>
+
+    <style name="AppTheme.Search" parent="Theme.AppCompat">
+
+        <item name="colorPrimary">@color/colorPlus</item>
+        <item name="colorPrimaryDark">@color/colorPlus</item>
+        <item name="android:windowBackground">@color/colorBackground2</item>
+    </style>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+
+
+</resources>

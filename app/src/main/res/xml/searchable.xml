@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<searchable xmlns:android="http://schemas.android.com/apk/res/android"
+    android:label="@string/app_name"
+    android:hint="Hint"
+
+    android:searchSuggestIntentAction="android.intent.action.VIEW"
+    android:includeInGlobalSearch="true"
+    android:searchSettingsDescription="Setting"
+
+    android:voiceSearchMode="showVoiceSearchButton|launchRecognizer"
+    android:searchSuggestAuthority="comp5216.sydney.edu.au.guessyourimage.SuggestionProvider"
+    android:searchSuggestSelection=" ?">
+
+</searchable>
